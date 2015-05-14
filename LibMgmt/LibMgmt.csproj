@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A243BF50-8C1A-4F49-9688-F24C0B6B1496}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LibMgmt</RootNamespace>
+    <AssemblyName>LibMgmt</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v11.2.Core, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Win.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Persistent.Base.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.PivotGrid.v11.2.Core, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v11.2.Core, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v11.2.Core, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Xpo.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v11.2, Version=11.2.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Book.cs" />
+    <Compile Include="BookCoupon.cs" />
+    <Compile Include="BorrowCoupon.cs" />
+    <Compile Include="dsMuon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsMuon.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsSachCon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsSachCon.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccess.Designer.cs">
+      <DependentUpon>frmAccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangePasswd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangePasswd.Designer.cs">
+      <DependentUpon>frmChangePasswd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuanLiDanhMuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuanLiDanhMuc.Designer.cs">
+      <DependentUpon>frmQuanLiDanhMuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSendMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSendMail.Designer.cs">
+      <DependentUpon>frmSendMail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibCard.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reader.cs" />
+    <Compile Include="rptDanhsachcon.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDanhsachcon.Designer.cs">
+      <DependentUpon>rptDanhsachcon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptDanhsachMuon.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDanhsachMuon.Designer.cs">
+      <DependentUpon>rptDanhsachMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchBook.cs" />
+    <Compile Include="SQL_Connection.cs" />
+    <Compile Include="Staff.cs" />
+    <Compile Include="UsrCtrl_Author.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_Author.Designer.cs">
+      <DependentUpon>UsrCtrl_Author.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_CapNhatDocGia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_CapNhatDocGia.Designer.cs">
+      <DependentUpon>UsrCtrl_CapNhatDocGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_DanhsachCon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_DanhsachCon.Designer.cs">
+      <DependentUpon>UsrCtrl_DanhsachCon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_DanhsachMuon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_DanhsachMuon.Designer.cs">
+      <DependentUpon>UsrCtrl_DanhsachMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_Help.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_Help.Designer.cs">
+      <DependentUpon>UsrCtrl_Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_Introduce.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_Introduce.Designer.cs">
+      <DependentUpon>UsrCtrl_Introduce.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_Language.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_Language.Designer.cs">
+      <DependentUpon>UsrCtrl_Language.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_Provider.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_Provider.Designer.cs">
+      <DependentUpon>UsrCtrl_Provider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_Publisher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_Publisher.Designer.cs">
+      <DependentUpon>UsrCtrl_Publisher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_QuanLiMuonSach.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_QuanLiMuonSach.Designer.cs">
+      <DependentUpon>UsrCtrl_QuanLiMuonSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_Quanlinhanvien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_Quanlinhanvien.Designer.cs">
+      <DependentUpon>UsrCtrl_Quanlinhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_ReturnBook.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_ReturnBook.Designer.cs">
+      <DependentUpon>UsrCtrl_ReturnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_SearchBook.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_SearchBook.Designer.cs">
+      <DependentUpon>UsrCtrl_SearchBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_SendSMS.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_SendSMS.Designer.cs">
+      <DependentUpon>UsrCtrl_SendSMS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_TimKiemDocGia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_TimKiemDocGia.Designer.cs">
+      <DependentUpon>UsrCtrl_TimKiemDocGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_TypeOfBook.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_TypeOfBook.Designer.cs">
+      <DependentUpon>UsrCtrl_TypeOfBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrl_UpdateBook.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrl_UpdateBook.Designer.cs">
+      <DependentUpon>UsrCtrl_UpdateBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerifyAccess.cs" />
+    <EmbeddedResource Include="frmAccess.resx">
+      <DependentUpon>frmAccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangePasswd.resx">
+      <DependentUpon>frmChangePasswd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuanLiDanhMuc.resx">
+      <DependentUpon>frmQuanLiDanhMuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSendMail.resx">
+      <DependentUpon>frmSendMail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDanhsachcon.resx">
+      <DependentUpon>rptDanhsachcon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDanhsachMuon.resx">
+      <DependentUpon>rptDanhsachMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_Author.resx">
+      <DependentUpon>UsrCtrl_Author.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_CapNhatDocGia.resx">
+      <DependentUpon>UsrCtrl_CapNhatDocGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_DanhsachCon.resx">
+      <DependentUpon>UsrCtrl_DanhsachCon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_DanhsachMuon.resx">
+      <DependentUpon>UsrCtrl_DanhsachMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_Help.resx">
+      <DependentUpon>UsrCtrl_Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_Introduce.resx">
+      <DependentUpon>UsrCtrl_Introduce.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_Language.resx">
+      <DependentUpon>UsrCtrl_Language.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_Provider.resx">
+      <DependentUpon>UsrCtrl_Provider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_Publisher.resx">
+      <DependentUpon>UsrCtrl_Publisher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_QuanLiMuonSach.resx">
+      <DependentUpon>UsrCtrl_QuanLiMuonSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_Quanlinhanvien.resx">
+      <DependentUpon>UsrCtrl_Quanlinhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_ReturnBook.resx">
+      <DependentUpon>UsrCtrl_ReturnBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_SearchBook.resx">
+      <DependentUpon>UsrCtrl_SearchBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_SendSMS.resx">
+      <DependentUpon>UsrCtrl_SendSMS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_TimKiemDocGia.resx">
+      <DependentUpon>UsrCtrl_TimKiemDocGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_TypeOfBook.resx">
+      <DependentUpon>UsrCtrl_TypeOfBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrl_UpdateBook.resx">
+      <DependentUpon>UsrCtrl_UpdateBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="dsMuon.xsc">
+      <DependentUpon>dsMuon.xsd</DependentUpon>
+    </None>
+    <None Include="dsMuon.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsMuon.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsMuon.xss">
+      <DependentUpon>dsMuon.xsd</DependentUpon>
+    </None>
+    <None Include="dsSachCon.xsc">
+      <DependentUpon>dsSachCon.xsd</DependentUpon>
+    </None>
+    <None Include="dsSachCon.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsSachCon.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsSachCon.xss">
+      <DependentUpon>dsSachCon.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\mzl.gvkcdyhw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\logout.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\cancel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\add_employeee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\delete_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Oxygen480-actions-list-remove-user.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\modify_info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\report.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\borrow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\borrow1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\return_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\report1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\update.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\search_book_icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\addressbook-search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\user.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\user_search.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\reader.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\punish.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\list.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\book512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\717+ku0yUaL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Word.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\team21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\team.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\team1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\helpbtn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\skin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\TaQuangBuuLib.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\TQBLib.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\developers-gallery-for-web-developer-hd-2969871.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Windows.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\pic6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\DSC01992.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Outlook">
+      <Guid>{00062FFF-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.OutlookViewCtl">
+      <Guid>{0006F062-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\_team.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\libmgmt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\book-reviews.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\IMG_1782.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\photo-8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\lib1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\the-british-library_c2a9-jgz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Sendmail.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\SMS-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\pdf2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Default Netprinter.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\xls.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Microsoft Office Excel 512PX.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\User-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\ChangePasswd.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

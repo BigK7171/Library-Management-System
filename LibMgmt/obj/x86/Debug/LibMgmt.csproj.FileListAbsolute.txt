@@ -1,0 +1,201 @@
+c:\users\d3vjl\documents\visual studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.frmMain.resources
+c:\users\d3vjl\documents\visual studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.Properties.Resources.resources
+c:\users\d3vjl\documents\visual studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.csproj.GenerateResource.Cache
+c:\users\d3vjl\documents\visual studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.exe.licenses
+c:\users\d3vjl\documents\visual studio 2010\Projects\LibMgmt\LibMgmt\bin\Debug\LibMgmt.exe
+c:\users\d3vjl\documents\visual studio 2010\Projects\LibMgmt\LibMgmt\bin\Debug\LibMgmt.pdb
+c:\users\d3vjl\documents\visual studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.exe
+c:\users\d3vjl\documents\visual studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.pdb
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Introduce.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Help.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.csproj.ResolveComReference.cache
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.frmSendMail.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_SendSMS.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_DanhsachMuon.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_DanhsachCon.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_TimKiemDocGia.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_CapNhatDocGia.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.frmQuanLiDanhMuc.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Author.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Language.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Provider.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Publisher.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_TypeOfBook.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.frmAccess.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Quanlinhanvien.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.frmChangePasswd.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_SearchBook.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_UpdateBook.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_QuanLiMuonSach.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_ReturnBook.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.rptDanhsachcon.resources
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\bin\Debug\LibMgmt.exe.config
+C:\Users\d3vjl\Documents\Visual Studio 2010\Projects\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.rptDanhsachMuon.resources
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\LibMgmt.exe.config
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.csproj.ResolveComReference.cache
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.exe
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.pdb
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.frmAccess.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.frmChangePasswd.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.frmMain.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.frmQuanLiDanhMuc.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.frmSendMail.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.Properties.Resources.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.rptDanhsachcon.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.rptDanhsachMuon.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Author.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_CapNhatDocGia.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_DanhsachCon.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_DanhsachMuon.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Help.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Introduce.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Language.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Provider.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Publisher.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_QuanLiMuonSach.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_Quanlinhanvien.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_ReturnBook.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_SearchBook.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_SendSMS.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_TimKiemDocGia.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_TypeOfBook.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.UsrCtrl_UpdateBook.resources
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.csproj.GenerateResource.Cache
+G:\KTPM\LibMgmt\LibMgmt\obj\x86\Debug\LibMgmt.exe.licenses
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\LibMgmt.exe
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\LibMgmt.pdb
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.BonusSkins.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.Charts.v11.2.Core.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.Data.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.ExpressApp.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.ExpressApp.Win.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.Persistent.Base.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.PivotGrid.v11.2.Core.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.Printing.v11.2.Core.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.RichEdit.v11.2.Core.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.Utils.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.Xpo.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraBars.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraCharts.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraEditors.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraGrid.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraLayout.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraNavBar.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraPivotGrid.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraPrinting.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraReports.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraRichEdit.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraTreeList.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraVerticalGrid.v11.2.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\Microsoft.CSharp.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\System.Configuration.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\System.Data.DataSetExtensions.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\System.Data.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\System.Deployment.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\System.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\System.Drawing.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\System.Runtime.Remoting.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\System.Windows.Forms.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\System.Xml.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\System.Xml.Linq.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.Data.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.ExpressApp.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.ExpressApp.Win.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.Persistent.Base.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.PivotGrid.v11.2.Core.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.Printing.v11.2.Core.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.RichEdit.v11.2.Core.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.Utils.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.Xpo.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraBars.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraCharts.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraEditors.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraGrid.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraLayout.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraNavBar.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraPivotGrid.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraPrinting.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraReports.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraRichEdit.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraTreeList.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\DevExpress.XtraVerticalGrid.v11.2.xml
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.Data.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.Data.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.Data.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.Data.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.ExpressApp.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.ExpressApp.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.ExpressApp.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.ExpressApp.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.ExpressApp.Win.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.ExpressApp.Win.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.ExpressApp.Win.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.ExpressApp.Win.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.PivotGrid.v11.2.Core.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.PivotGrid.v11.2.Core.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.PivotGrid.v11.2.Core.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.PivotGrid.v11.2.Core.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.RichEdit.v11.2.Core.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.RichEdit.v11.2.Core.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.RichEdit.v11.2.Core.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.RichEdit.v11.2.Core.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.Utils.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.Utils.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.Utils.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.Utils.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.Xpo.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.Xpo.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.Xpo.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.Xpo.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.XtraBars.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.XtraBars.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.XtraBars.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.XtraBars.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.XtraCharts.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.XtraCharts.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.XtraCharts.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.XtraCharts.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.XtraEditors.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.XtraEditors.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.XtraEditors.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.XtraEditors.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.XtraGrid.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.XtraGrid.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.XtraGrid.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.XtraGrid.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.XtraLayout.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.XtraLayout.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.XtraLayout.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.XtraLayout.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.XtraNavBar.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.XtraNavBar.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.XtraNavBar.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.XtraNavBar.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.XtraPivotGrid.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.XtraPivotGrid.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.XtraPivotGrid.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.XtraPivotGrid.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.XtraPrinting.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.XtraPrinting.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.XtraPrinting.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.XtraPrinting.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.XtraReports.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.XtraReports.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.XtraReports.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.XtraReports.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.XtraRichEdit.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.XtraRichEdit.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.XtraRichEdit.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.XtraRichEdit.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.XtraTreeList.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.XtraTreeList.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.XtraTreeList.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.XtraTreeList.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\de\DevExpress.XtraVerticalGrid.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\es\DevExpress.XtraVerticalGrid.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ja\DevExpress.XtraVerticalGrid.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\ru\DevExpress.XtraVerticalGrid.v11.2.resources.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\Office.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\Microsoft.Office.Interop.OutlookViewCtl.dll
+G:\KTPM\LibMgmt\LibMgmt\bin\Debug\stdole.dll
