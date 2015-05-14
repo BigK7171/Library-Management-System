@@ -1,0 +1,8 @@
+private void mSWordToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("Winword.exe");
+        }
+		
+using Microsoft.SqlServer.Management.Common;
+using Microsoft.SqlServer.Management.Smo;
+string baseurl = "http://api.clickatell.com/http/sendmsg?user=ghost_7171&password=YNfKEdBccWcHSG&api_id=3504829&to='"+to+"'&text='"+msg+"'";

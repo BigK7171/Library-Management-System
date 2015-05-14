@@ -1,0 +1,1 @@
+http://api.clickatell.com/http/sendmsg?user=thai_nullpointer&password=dUdIJEaOMQVEGV&api_id=3513805&to=841685392259&text=Message
